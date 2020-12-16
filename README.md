@@ -1,22 +1,25 @@
-# piko
+# pico(Pusat Informasi Covid-19)
 
-> My luminous Nuxt.js project
 
-## Build Setup
+Aplikasi sederhana untuk menampilakan informasi jumlah kasus covid-19 di Indonesia dan Global
 
-```bash
-# install dependencies
-$ npm install
 
-# serve with hot reload at localhost:3000
-$ npm run dev
 
-# build for production and launch server
-$ npm run build
-$ npm run start
+**Teknologi yang digunakan**
+* Nuxtjs
+* Axios
+* Vue-slick-carousel
 
-# generate static project
-$ npm run generate
-```
+**Cara menjalankan web**
+1. Clone Repo ini
+2. Buka Terminal atau Command Prompt lalu ketikan *npm install*
+3. Setelah selesai menginstall semua package selanjutnya ketikan perintah *npm run dev* untuk menjalankan web di lokal
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+**Daftar API yang digunakan**
+1. [https://indonesia-covid-19.mathdro.id/api](https://indonesia-covid-19.mathdro.id/api)
+2. [https://covid19.mathdro.id/api](https://covid19.mathdro.id/api)
+3. [https://covid19.mathdro.id/api](https://covid19.mathdro.id/api/countries)
+
+**Tampilan Aplikasi**
+
