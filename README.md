@@ -1,4 +1,4 @@
-# pico(Pusat Informasi Covid-19)
+# Pico(Pusat Informasi Covid-19)
 
 
 Aplikasi sederhana untuk menampilakan informasi jumlah kasus covid-19 di Indonesia dan Global
@@ -17,9 +17,10 @@ Aplikasi sederhana untuk menampilakan informasi jumlah kasus covid-19 di Indones
 
 
 **Daftar API yang digunakan**
-1. [https://indonesia-covid-19.mathdro.id/api](https://indonesia-covid-19.mathdro.id/api)
-2. [https://covid19.mathdro.id/api](https://covid19.mathdro.id/api)
-3. [https://covid19.mathdro.id/api](https://covid19.mathdro.id/api/countries)
+1. [https://api.kawalcorona.com](https://api.kawalcorona.com)
+2. [https://api.kawalcorona.com/indonesia](https://api.kawalcorona.com/indonesia)
+3. [https://api.kawalcorona.com/indonesia/provinsi](https://api.kawalcorona.com/indonesia/provinsi)
 
 **Tampilan Aplikasi**
+![Screenshot_2020-12-16_14-00-51](https://user-images.githubusercontent.com/48466908/102315840-6d410c80-3fa7-11eb-9cfc-b4e940f41fc2.png)
 
