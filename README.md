@@ -22,5 +22,6 @@ Aplikasi sederhana untuk menampilakan informasi jumlah kasus covid-19 di Indones
 3. [https://api.kawalcorona.com/indonesia/provinsi](https://api.kawalcorona.com/indonesia/provinsi)
 
 **Tampilan Aplikasi**
-![Screenshot_2020-12-16_14-00-51](https://user-images.githubusercontent.com/48466908/102315840-6d410c80-3fa7-11eb-9cfc-b4e940f41fc2.png)
+![Screenshot_2020-12-17_06-08-24](https://user-images.githubusercontent.com/48466908/102418269-f9971200-402f-11eb-8b82-75e1c9216e61.png)
+
 
